@@ -1,0 +1,22 @@
+First we login to administration login the only admin can only login
+in this module we show’s some operation do by admin.
+When admin do some operations with Student then Admin Click on Student, then he will Goes on student operation page and admin can do some operation’s, Operation Screen are Shown Below.
+In this Student Module Admin Can Add Student Record’s, List the Student, also admin Can Update the Student Record’s and can Delete the Student Record by Using Student ID. Let’s See examples.
+Admin can Add New Student Detail’s.
+Admin Can Get Student List. Which are Present in Our Database.
+Admin Can Update the Student Record’s
+Here Admin can Delete the Student Record’s By Using Student ID.
+In Module Admin Can Add Techer, Assign Class and Subject, Admin can see Assigned Subject List also Admin can Update the Recor’s and also Delete the Record’s
+When Admin Want’s to Assign Class and Subject to teacher then Admin Can Goes With This option. Here We Add Some Details
+After Admin Insert this Record’s Successfully then this record’s goes in Different Table’s 
+When Admin wants Update the Teachers, Subjects and Assigned Class then Admin can Goes with this Option, Values Insert 
+ In this Module Admin Can Delete Assigned Subject, Assigned Class, Assigned Teacher, 
+This Module Contains Following Operation’s Like Admin Can Add New Classes See Assigned Class List and New Class list
+ In this Module Admin Can Add New Class
+When Admin wants to know how many classes are assigned the He will Goes With This Option to See Assigned Class. Because If admin don’t know about assigned class then he will face some Errors Because Database Can’t Accept Duplicate Values. 
+When Admin Wants to See New Added Class List then He will Goes with This Option 
+In this Section admin can see and Delete the Subject Record’s.
+When Admin wants to See the List of Subject which is Inserted By Admin During The Assigning of class to teache
+ Admin can Delete the Subject by Using this Option
+By using this Section admin can get all Information Just Search By the Class Name, after doing this admin can get all information 
+This is Final Module Which is Log Out :
